@@ -1,0 +1,30 @@
+{
+  "en": {
+    "input.key": "Jira API Key",
+    "input.key.placeholder": "Please enter your API key",
+    "input.key.hint": "Please create your own API Key.",
+    "input.url": "Jira Url to query",
+    "input.url.placeholder": "Please enter your custom url to use",
+    "input.url.hint": "",
+    "input.username": "Jira Username",
+    "input.username.placeholder": "Please enter your user name",
+    "input.username.hint": "",
+    "input.query": "Jira Query",
+    "input.query.placeholder": "Please enter your query",
+    "input.query.hint": ""
+  },
+  "de": {
+    "input.key": "Jira API Key",
+    "input.key.placeholder": "Bitte gib deinen API Schlüssel ein",
+    "input.key.hint": "Bitte erstelle deinen eigenen API Schlüssel.",
+    "input.url": "Jira Url to query",
+    "input.url.placeholder": "Please enter your custom url to use",
+    "input.url.hint": "",
+    "input.username": "Jira Username",
+    "input.username.placeholder": "Please enter your user name",
+    "input.username.hint": "",
+    "input.query": "Jira Query",
+    "input.query.placeholder": "Please enter your query",
+    "input.query.hint": ""
+  }
+}

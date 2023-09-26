@@ -1,0 +1,54 @@
+[
+  {
+    "id": "jiraKey",
+    "type": "securetext",
+    "name": "input.key",
+    "placeholder": "input.key.placeholder",
+    "persist": true
+  },
+  {
+    "id": "jiraKeyHint",
+    "type": "hint",
+    "name": "",
+    "value": "input.key.hint"
+  },
+  {
+    "id": "jiraUrl",
+    "type": "text",
+    "name": "input.url",
+    "placeholder": "input.url.placeholder",
+    "persist": true
+  },
+  {
+    "id": "jiraUrlHint",
+    "type": "hint",
+    "name": "",
+    "value": "input.url.hint"
+  },
+  {
+    "id": "jiraUsername",
+    "type": "text",
+    "name": "input.username",
+    "placeholder": "input.username.placeholder",
+    "persist": true
+  },
+  {
+    "id": "jiraUsernameHint",
+    "type": "hint",
+    "name": "",
+    "value": "input.username.hint"
+  },
+  {
+    "id": "jiraQuery",
+    "type": "text",
+    "name": "input.query",
+    "placeholder": "input.query.placeholder",
+    "persist": true
+  },
+  {
+    "id": "jiraQueryHint",
+    "type": "hint",
+    "name": "",
+    "value": "input.query.hint"
+  }
+]
