@@ -16,4 +16,4 @@ For the query you can use this one as a starting point:
 (issuetype = Epic OR issuetype = Story OR issuetype = Task) and project in ('ProjectA', 'ProjectB')
 ```
 
-The username has currently no effect. 
+The username is needed for authorization. 
