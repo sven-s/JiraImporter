@@ -17,3 +17,11 @@ For the query you can use this one as a starting point:
 ```
 
 The username is needed for authorization. 
+
+## Convention
+
+All projects are synced into a 'Jira' category. For each Jira project, all epics, stories or tasks are created as a Tyme task so you can track time on each level. 
+
+If the Jira issue is marked as 'Done' the Tyme task will be moved to completed.
+
+The issue id is written in the description of the task and used by the exporter. So, if you plan to use the exporter, do not touch the format. 

@@ -1,5 +1,7 @@
 {
   "en": {
+    "plugin.name": "Jira Importer",
+    "plugin.summary": "Import issues from Jira",
     "input.key": "Jira API Key",
     "input.key.placeholder": "Please enter your API key",
     "input.key.hint": "Please create your own API Key.",
@@ -14,6 +16,8 @@
     "input.query.hint": ""
   },
   "de": {
+    "plugin.name": "Jira Importer",
+    "plugin.summary": "Importiere Issues von Jira",
     "input.key": "Jira API Key",
     "input.key.placeholder": "Bitte gib deinen API Schlüssel ein",
     "input.key.hint": "Bitte erstelle deinen eigenen API Schlüssel.",
